@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  margin: 10px;
+  padding: 10px;
+  border: solid rgb(255, 0, 247) 5px;
+  background-color: brown;
+}
+section p {
+  color: cornflowerblue;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+.inicio {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#titulo {
+  color: blue;
+}/*# sourceMappingURL=style.css.map */
